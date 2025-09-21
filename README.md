@@ -4,6 +4,7 @@
 - **Shift Discord** : B
 
 
-[🎥 Lihat Demo](Screen%20Recording%202025-09-21%20231049.mp4)
 
-<video src="Screen%20Recording%202025-09-21%20231049.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/aa2ba0c0-5705-47d1-af4e-f0973157662a
+
+
