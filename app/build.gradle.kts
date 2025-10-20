@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.praktikum_pertemuan_1"
+    namespace = "com.example.praktikum_Mobile_KelasB"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.praktikum_pertemuan_1"
+        applicationId = "com.example.praktikum_Mobile_KelasB"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
